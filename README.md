@@ -459,7 +459,7 @@ getstorybook
 
 After that, follow the instructions on the screen.
 
-Learn more about React Storybook:
+Learn More About React Storybook:
 
 * Screencast: [Getting Started with React Storybook](https://egghead.io/lessons/react-getting-started-with-react-storybook)
 * [GitHub Repo](https://github.com/storybooks/storybook)
