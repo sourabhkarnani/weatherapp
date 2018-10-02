@@ -21,7 +21,7 @@ We commit to keeping the breaking changes minimal so you can upgrade `react-scri
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory you can run:
 
 ### `npm start`
 
